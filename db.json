@@ -10,13 +10,13 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": "13"
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": "20"
     },
     {
       "id": 4,
@@ -37,16 +37,28 @@
       "likes": 2
     },
     {
-      "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
-    {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": "15"
+    },
+    {
+      "name": "Pikachu",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/img16/toys/content-grid/character-tile/1014587_us_toys_favorite_characters_q4__shop-by-tile_416x560_pokemon.jpg",
+      "likes": "3",
+      "id": 9
+    },
+    {
+      "name": "Sonic the Hedgehog",
+      "image": "https://cf1.s3.souqcdn.com/item/2016/05/18/10/75/83/48/item_XL_10758348_14397506.jpg",
+      "likes": "5",
+      "id": 10
+    },
+    {
+      "name": "Shadow",
+      "image": "https://cdn2.bigcommerce.com/server1500/d2815/products/48597/images/75506/sonic-the-hedgehog-modern-shadow-12-inch-plush-toy-partytoyz__72846.1517764564.1280.1280.jpg?c=2",
+      "likes": "7",
+      "id": 11
     }
   ]
 }
